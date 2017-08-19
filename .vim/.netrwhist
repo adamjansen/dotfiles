@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/adam/dev/partsdb/parts/templates'
+let g:netrw_dirhist_2='/Users/adam/dev/partsdb/parts/templates/parts'
+let g:netrw_dirhist_3='/Users/adam/dev/cookiecutters/cookiecutter-django'
+let g:netrw_dirhist_4='/Users/adam/dev/poky/build'
